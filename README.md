@@ -76,6 +76,8 @@ _ **devices**
 * [SniffAir](https://github.com/Tylous/SniffAir)
 * [Evilginx](https://github.com/kgretzky/evilginx)
 * [BetterCAP](https://github.com/evilsocket/bettercap)
+* [mosint](https://github.com/alpkeskin/mosint)  
+    Busca informacion de un correo electronico, el detalle es que pide 3s apikeys de 3s lugares diferentes. y creo que son pagas.
 
 ## Mitm
 
