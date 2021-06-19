@@ -47,6 +47,17 @@ _ **devices**
 * [Commix](https://github.com/commixproject/commix)
 * [BloodHound](https://github.com/BloodHoundAD/BloodHound)
 * [Autowasp](https://github.com/GovTechCSG/Autowasp)
+* [goca](https://github.com/gocaio/goca)
+
+webs
+
+* [exploit-db](https://www.exploit-db.com/)
+* [cyberforensics](http://www.cyberforensics.in/AccessDenied.aspx?ReturnUrl=%2fProducts%2fCybercheck.aspx)
+* [haveibeenpwned](https://haveibeenpwned.com/)
+* [gmx](https://www.gmx.com/)  
+    Para crear correos falsos.
+* [virustotal](https://www.virustotal.com/gui/)  
+    Para verificar si un archivo tiene un virus.
 
 ## Penetration
 
@@ -63,6 +74,8 @@ _ **devices**
 
 ## Sniff
 
+command line
+
 * [NetRipper](https://github.com/NytroRST/NetRipper)
 * [Net-Creds](https://github.com/DanMcInerney/net-creds)
     Busca credenciales como user y contrasenas, en protocolos como: HTTP,FTP,SMTP,SMB.
@@ -76,6 +89,11 @@ _ **devices**
 * [SniffAir](https://github.com/Tylous/SniffAir)
 * [Evilginx](https://github.com/kgretzky/evilginx)
 * [BetterCAP](https://github.com/evilsocket/bettercap)
+
+webs
+
+[who.is](https://who.is/)
+[stalkface](https://stalkface.com/es/)
 
 ## Mitm
 
@@ -131,3 +149,8 @@ _ **devices**
 ### web
 
 * Maltego
+
+
+## VPN
+
+[proxychains](https://github.com/haad/proxychains)
