@@ -140,11 +140,13 @@ webs
 
 ### tools
 
-* [OSRFramework](https://github.com/i3visio/osrframework) :white_circle:
+* [OSRFramework](https://github.com/i3visio/osrframework) :heavy_check_mark:  
+    No logro crear una imagen de docker
 * [Iky](https://gitlab.com/kennbroorg/iKy.git) :white_circle:
+    Es parecido a sherlock, con la diferencia que tiene una UI que se crean en un servidor local. te deja buscar emails para saber en que red social se esta usando. (No se puede usar con docker)
 * [Sublist3r](https://github.com/aboul3la/Sublist3r) :white_circle:
 * [theHarvester](https://github.com/laramies/theHarvester) :heavy_check_mark: :whale:
-  * [Imagen](https://github.com/Capitanalgosa/theharvester) 
+  * [Imagen](https://github.com/Capitanalgosa/theharvester)
 * [twint](https://github.com/twintproject/twint) :white_circle:
 * [Osintgram](https://github.com/Datalux/Osintgram) :white_circle:
 * [phoneinfoga](https://github.com/sundowndev/phoneinfoga) :white_circle:
