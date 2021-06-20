@@ -4,7 +4,7 @@
 
 * :white_circle: No se ah usado
 * :heavy_check_mark: Probado y testeado
-* :radio_button: Con Imagen
+* :whale: Con Imagen
 * :x: Dead
 * :small_orange_diamond: Error: no se usar la herramienta o no se instalarla.
 * :star: Favorito
@@ -143,12 +143,12 @@ webs
 * [OSRFramework](https://github.com/i3visio/osrframework) :white_circle:
 * [Iky](https://gitlab.com/kennbroorg/iKy.git) :white_circle:
 * [Sublist3r](https://github.com/aboul3la/Sublist3r) :white_circle:
-* [theHarvester](https://github.com/laramies/theHarvester) :heavy_check_mark: :radio_button:
+* [theHarvester](https://github.com/laramies/theHarvester) :heavy_check_mark: :whale:
   * [Imagen](https://github.com/Capitanalgosa/theharvester) 
 * [twint](https://github.com/twintproject/twint) :white_circle:
 * [Osintgram](https://github.com/Datalux/Osintgram) :white_circle:
 * [phoneinfoga](https://github.com/sundowndev/phoneinfoga) :white_circle:
-* [sherlock](https://github.com/sherlock-project/sherlock) :heavy_check_mark: :star: :radio_button:
+* [sherlock](https://github.com/sherlock-project/sherlock) :heavy_check_mark: :star: :whale:
   * [Imagen](https://hub.docker.com/repository/docker/capitanalgosa/sherlock)
 * [skiptracer](https://github.com/xillwillx/skiptracer) :white_circle:
 * [fb-sleep-stats](https://github.com/sqren/fb-sleep-stats) :white_circle:
