@@ -4,7 +4,7 @@
 
 * :white_circle: No se ah usado
 * :heavy_check_mark: Probado y testeado
-* :whale: Con Imagen
+* :whale: Con Imagen Docker
 * :x: Dead
 * :small_orange_diamond: Error: no se usar la herramienta o no se instalarla.
 * :star: Favorito
