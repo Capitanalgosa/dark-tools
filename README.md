@@ -142,16 +142,20 @@ webs
 
 * [OSRFramework](https://github.com/i3visio/osrframework) :heavy_check_mark:  
     No logro crear una imagen de docker
-* [Iky](https://gitlab.com/kennbroorg/iKy.git) :white_circle:
+* [Iky](https://gitlab.com/kennbroorg/iKy.git) :white_circle:  
     Es parecido a sherlock, con la diferencia que tiene una UI que se crean en un servidor local. te deja buscar emails para saber en que red social se esta usando. (No se puede usar con docker)
-* [Sublist3r](https://github.com/aboul3la/Sublist3r) :white_circle:
-* [theHarvester](https://github.com/laramies/theHarvester) :heavy_check_mark: :whale:
-  * [Imagen](https://github.com/Capitanalgosa/theharvester)
+* [Sublist3r](https://github.com/aboul3la/Sublist3r) :white_circle: :whale:
+    Sirve para enumerar los subdominios de un dominio.
+  * [:whale:](https://hub.docker.com/repository/docker/capitanalgosa/sherlock) capitanalgosa
+* [theHarvester](https://github.com/laramies/theHarvester) :heavy_check_mark: :whale:  
+    Encuentra email en un dominio.  
+  * [:whale:](https://github.com/Capitanalgosa/theharvester) capitanalgosa - official
 * [twint](https://github.com/twintproject/twint) :white_circle:
 * [Osintgram](https://github.com/Datalux/Osintgram) :white_circle:
 * [phoneinfoga](https://github.com/sundowndev/phoneinfoga) :white_circle:
+  * [:whale:](https://hub.docker.com/repository/docker/capitanalgosa/sherlock) official
 * [sherlock](https://github.com/sherlock-project/sherlock) :heavy_check_mark: :star: :whale:
-  * [Imagen](https://hub.docker.com/repository/docker/capitanalgosa/sherlock)
+  * [:whale:](https://hub.docker.com/repository/docker/capitanalgosa/sherlock) capitanalgosa,official
 * [skiptracer](https://github.com/xillwillx/skiptracer) :white_circle:
 * [fb-sleep-stats](https://github.com/sqren/fb-sleep-stats) :white_circle:
 * [GHunt](https://github.com/mxrch/GHunt) :heavy_check_mark:
