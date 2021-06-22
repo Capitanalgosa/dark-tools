@@ -144,7 +144,7 @@ webs
     No logro crear una imagen de docker
 * [Iky](https://gitlab.com/kennbroorg/iKy.git) :white_circle:  
     Es parecido a sherlock, con la diferencia que tiene una UI que se crean en un servidor local. te deja buscar emails para saber en que red social se esta usando. (No se puede usar con docker)
-* [Sublist3r](https://github.com/aboul3la/Sublist3r) :heavy_check_mark: :whale:
+* [Sublist3r](https://github.com/aboul3la/Sublist3r) :heavy_check_mark: :whale:  
     Sirve para enumerar los subdominios de un dominio.
   * [:whale:](https://hub.docker.com/repository/docker/capitanalgosa/sherlock) capitanalgosa
 * [theHarvester](https://github.com/laramies/theHarvester) :heavy_check_mark: :whale:  
@@ -158,7 +158,7 @@ webs
   * [:whale:](https://hub.docker.com/r/sundowndev/phoneinfoga) official
 * [sherlock](https://github.com/sherlock-project/sherlock) :heavy_check_mark: :star: :whale:
   * [:whale:](https://hub.docker.com/repository/docker/capitanalgosa/sherlock) capitanalgosa,official
-* [skiptracer](https://github.com/xillwillx/skiptracer) :white_circle:
+* [skiptracer](https://gitlab.com/illwill/skiptracer) :white_circle:
 * [fb-sleep-stats](https://github.com/sqren/fb-sleep-stats) :white_circle:
 * [GHunt](https://github.com/mxrch/GHunt) :heavy_check_mark:
     Busca infromacion sobre cuentas gmail.
