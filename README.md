@@ -188,3 +188,17 @@ webs
 ## VPN
 
 [proxychains](https://github.com/haad/proxychains) :white_circle:
+
+## Proxys
+
+**tools**  
+
+* proxychains
+
+**webs**
+
+* [spy.one](https://spys.one/en/)
+* [free-proxy-list](https://free-proxy-list.net/)
+* [freeproxylist](http://www.freeproxylists.net/)
+* [hidemy.name](https://hidemy.name/es/proxy-list/)
+* [free.proxy](http://free-proxy.cz/es/)
