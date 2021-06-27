@@ -11,10 +11,11 @@
 
 ## Remote Access Tools
 
-* [Pupy](https://github.com/n1nj4sec/pupy) :white_circle:
+* [Pupy](https://github.com/n1nj4sec/pupy) :small_orange_diamond:
 * [AhMyth](https://github.com/AhMyth/AhMyth-Android-RAT) :white_circle:
-* [Empire](https://github.com/EmpireProject/Empire) :white_circle:
-* [SMBMap](https://github.com/ShawnDEvans/smbmap) :white_circle:
+* [Empire](https://github.com/EmpireProject/Empire) :x:
+* [SMBMap](https://github.com/ShawnDEvans/smbmap) :white_circle:  
+    Este necesita saver la contraseña de la victima
 * [RedSnarf](https://github.com/nccgroup/redsnarf) :white_circle:
 * [smbexec](https://github.com/brav0hax/smbexec) :white_circle:
 * [Koadic](https://github.com/zerosum0x0/koadic) :white_circle:
