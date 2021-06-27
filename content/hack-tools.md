@@ -16,7 +16,7 @@
 * [Empire](https://github.com/EmpireProject/Empire) :x:
 * [SMBMap](https://github.com/ShawnDEvans/smbmap) :white_circle:  
     Este necesita saver la contraseña de la victima.
-* [RedSnarf](https://github.com/nccgroup/redsnarf) :white_circle:
+* [RedSnarf](https://github.com/nccgroup/redsnarf) :white_circle:  
     Este necesita saver la contraseña de la victima.
 * [smbexec](https://github.com/brav0hax/smbexec) :white_circle:
 * [Koadic](https://github.com/zerosum0x0/koadic) :white_circle:
