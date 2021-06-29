@@ -24,6 +24,7 @@
 * [LFiFreak](https://github.com/OsandaMalith/LFiFreak) :white_circle:
 * [Kwetza](https://github.com/sensepost/kwetza) :white_circle:
 * [UACMe](https://github.com/hfiref0x/UACME) :white_circle:
+* [msfvenom](https://github.com/rapid7/metasploit-framework) :white_circle:
 
 _ **devices**
 
@@ -44,7 +45,6 @@ _ **devices**
 * [Volatility](https://github.com/volatilityfoundation/volatility) :white_circle:
 * [Evil-Droid](https://github.com/M4sc3r4n0/Evil-Droid) :white_circle:
 * [SessionGopher](https://github.com/Arvanaghi/SessionGopher) :white_circle:
-* [msfvenom](https://github.com/rapid7/metasploit-framework) :white_circle:
 * aireplay-ng :white_circle:
 * [WAIDPS](https://github.com/SYWorks/waidps) :white_circle:
 * [Pythem](https://github.com/m4n3dw0lf/pythem) :white_circle:
