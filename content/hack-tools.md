@@ -20,7 +20,7 @@
     Este necesita saver la contraseña de la victima.
 * [smbexec](https://github.com/brav0hax/smbexec) :white_circle:
 * [Koadic](https://github.com/zerosum0x0/koadic) :heavy_check_mark::whale:  
-    Si funciona, puedes crear hasta sesiones de administrador. la vaina es que tienes que ejecutar un comando desde la terminal de la victima y siempre ejecuta una ventana en windows, cada vez  que ejcutas un comando desde la terminal remota.
+    Si funciona, puedes crear hasta sesiones de administrador. la vaina es que tienes que ejecutar un comando desde la terminal de la victima y siempre ejecuta una ventana en windows, cada vez  que ejcutas un comando desde la terminal remota. y en algunos casos activa el antivurus.
 * [LFiFreak](https://github.com/OsandaMalith/LFiFreak) :white_circle:
 * [Kwetza](https://github.com/sensepost/kwetza) :white_circle:
 * [UACMe](https://github.com/hfiref0x/UACME) :white_circle:
