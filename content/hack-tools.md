@@ -14,8 +14,8 @@
 * [Pupy](https://github.com/n1nj4sec/pupy) :small_orange_diamond:
 * [AhMyth](https://github.com/AhMyth/AhMyth-Android-RAT) :white_circle:
 * [Empire](https://github.com/EmpireProject/Empire) :x:
-* [SMBMap](https://github.com/ShawnDEvans/smbmap) :white_circle:  
-    Este necesita saver la contraseña de la victima.
+* [SMBMap](https://github.com/ShawnDEvans/smbmap) :heavy_check_mark:   
+    Funciona, puede cargar archivos a las rutas que la pc tenga desbloqueadas, funciona con algunas rutas, no ejecuta comandos y no se por que pero no me funciono en la Virtual machine.
 * [RedSnarf](https://github.com/nccgroup/redsnarf) :white_circle:  
     Este necesita saver la contraseña de la victima.
 * [smbexec](https://github.com/brav0hax/smbexec) :white_circle:
