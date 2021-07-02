@@ -41,7 +41,6 @@ _ **devices**
 * D Invoke :white_circle:
 * [Wfuzz](https://github.com/xmendez/wfuzz) :white_circle:  
    Es para usar fuerza bruta para logearse en una pagina y para encontrar vulnerabildades.
-* [Fluxion](https://github.com/FluxionNetwork/fluxion) :white_circle:
 * [SpookFlare](https://github.com/hlldz/SpookFlare) :white_circle:
 * [Antipwny](https://github.com/rvazarkar/antipwny) :white_circle:
 * [Bleah](https://github.com/evilsocket/bleah) :white_circle:
@@ -107,6 +106,8 @@ command line
     Busca informacion de un correo electronico, el detalle es que pide 3s apikeys de 3s lugares diferentes. y creo que son pagas.  
 * [arpspoof](https://github.com/pentesteracademy/airodump-scan-visualizer) :white_circle:
 * [MITMf](https://github.com/byt3bl33d3r/MITMf) :white_circle:
+* [Fluxion](https://github.com/FluxionNetwork/fluxion) :white_circle:  
+      Creo que captura el handchake.
 
 webs  
 
