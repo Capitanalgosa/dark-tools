@@ -16,7 +16,7 @@
 * [Empire](https://github.com/EmpireProject/Empire) :x:
 * [SMBMap](https://github.com/ShawnDEvans/smbmap) :heavy_check_mark:   
     Funciona, puede cargar archivos a las rutas que la pc tenga desbloqueadas, funciona con algunas rutas, no ejecuta comandos y no se por que pero no me funciono en la Virtual machine.
-* [RedSnarf](https://github.com/nccgroup/redsnarf) :white_circle:  
+* [RedSnarf](https://github.com/nccgroup/redsnarf) :small_orange_diamond:  
     Este necesita saver la contraseña de la victima.
 * [smbexec](https://github.com/brav0hax/smbexec) :white_circle:
 * [Koadic](https://github.com/zerosum0x0/koadic) :heavy_check_mark::whale:  
