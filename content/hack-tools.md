@@ -202,6 +202,10 @@ webs
 * [register](http://www.register.com/whois.rcmx)
 * [bbb](https://www.bbb.org/search)
 * [manta](https://www.manta.com/)
+* [homestars](https://homestars.com/bc/vancouver/categories)
+* [donsearch](https://www.dobsearch.com/business-lookup/search-company-name.php)
+* [sos.ca.gov](https://www.sos.ca.gov/business-programs/business-entities/)
+
 ## VPN
 
 [proxychains](https://github.com/haad/proxychains) :white_circle:
