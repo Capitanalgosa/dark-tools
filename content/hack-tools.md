@@ -18,7 +18,7 @@
     Funciona, puede cargar archivos a las rutas que la pc tenga desbloqueadas, funciona con algunas rutas, no ejecuta comandos y no se por que pero no me funciono en la Virtual machine.
 * [RedSnarf](https://github.com/nccgroup/redsnarf) :small_orange_diamond:  
     Este necesita saver la contraseña de la victima.
-* [smbexec](https://github.com/brav0hax/smbexec) :white_circle:
+* [smbexec](https://github.com/brav0hax/smbexec) :small_orange_diamond:
 * [Koadic](https://github.com/zerosum0x0/koadic) :heavy_check_mark::whale:  
     Si funciona, puedes crear hasta sesiones de administrador. la vaina es que tienes que ejecutar un comando desde la terminal de la victima y siempre ejecuta una ventana en windows, cada vez  que ejcutas un comando desde la terminal remota. y en algunos casos activa el antivurus.
 * [LFiFreak](https://github.com/OsandaMalith/LFiFreak) :white_circle:
