@@ -172,6 +172,7 @@ webs
 * [fb-sleep-stats](https://github.com/sqren/fb-sleep-stats) :white_circle:
 * [GHunt](https://github.com/mxrch/GHunt) :heavy_check_mark:
     Busca infromacion sobre cuentas gmail.
+* [InstagramOSINT](https://github.com/sc1341/InstagramOSINT)
 
 ### web
 
