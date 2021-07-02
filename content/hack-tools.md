@@ -27,6 +27,7 @@
 * [UACMe](https://github.com/hfiref0x/UACME) :small_orange_diamond:  
     Inicia una consola con privilegeos de administrador, creo que nada funciona con windows.
 * [msfvenom](https://github.com/rapid7/metasploit-framework) :white_circle:
+* [SpookFlare](https://github.com/hlldz/SpookFlare) :white_circle:
 
 _ **devices**
 
@@ -41,7 +42,6 @@ _ **devices**
 * D Invoke :white_circle:
 * [Wfuzz](https://github.com/xmendez/wfuzz) :white_circle:  
    Es para usar fuerza bruta para logearse en una pagina y para encontrar vulnerabildades.
-* [SpookFlare](https://github.com/hlldz/SpookFlare) :white_circle:
 * [Antipwny](https://github.com/rvazarkar/antipwny) :white_circle:
 * [Bleah](https://github.com/evilsocket/bleah) :white_circle:
 * [Volatility](https://github.com/volatilityfoundation/volatility) :white_circle:
