@@ -47,7 +47,7 @@ _ **devices**
     Ni idea
 * [Bleah](https://github.com/evilsocket/bleah) :x:
 * [Volatility](https://github.com/volatilityfoundation/volatility) :white_circle:  
-    Analiza imagenes de sistema operativos.
+    Analiza imagenes de sistema operativos, no se si analize el sistema operativo actual. seria logico no?
 * [Evil-Droid](https://github.com/M4sc3r4n0/Evil-Droid) :white_circle:
 * [SessionGopher](https://github.com/Arvanaghi/SessionGopher) :white_circle:
 * aireplay-ng :white_circle:
