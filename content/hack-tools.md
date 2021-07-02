@@ -200,7 +200,8 @@ webs
 * [whois.com](https://www.whois.com/whois/)
 * [namecheap](https://www.namecheap.com/domains/who...)
 * [register](http://www.register.com/whois.rcmx)
-
+* [bbb](https://www.bbb.org/search)
+* [manta](https://www.manta.com/)
 ## VPN
 
 [proxychains](https://github.com/haad/proxychains) :white_circle:
