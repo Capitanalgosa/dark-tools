@@ -27,7 +27,8 @@
 * [UACMe](https://github.com/hfiref0x/UACME) :small_orange_diamond:  
     Inicia una consola con privilegeos de administrador, creo que nada funciona con windows.
 * [msfvenom](https://github.com/rapid7/metasploit-framework) :white_circle:
-* [SpookFlare](https://github.com/hlldz/SpookFlare) :white_circle:
+* [SpookFlare](https://github.com/hlldz/SpookFlare) :white_circle:  
+    Para windwos, crea payload para acceso remoto y supuestamente es indetctabble para windows defender.
 
 _ **devices**
 
