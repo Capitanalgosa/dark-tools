@@ -43,8 +43,9 @@ _ **devices**
 * D Invoke :white_circle:
 * [Wfuzz](https://github.com/xmendez/wfuzz) :white_circle:  
    Es para usar fuerza bruta para logearse en una pagina y para encontrar vulnerabildades.
-* [Antipwny](https://github.com/rvazarkar/antipwny) :white_circle:
-* [Bleah](https://github.com/evilsocket/bleah) :white_circle:
+* [Antipwny](https://github.com/rvazarkar/antipwny) :white_circle:  
+    Ni idea
+* [Bleah](https://github.com/evilsocket/bleah) :x:
 * [Volatility](https://github.com/volatilityfoundation/volatility) :white_circle:
 * [Evil-Droid](https://github.com/M4sc3r4n0/Evil-Droid) :white_circle:
 * [SessionGopher](https://github.com/Arvanaghi/SessionGopher) :white_circle:
