@@ -39,7 +39,8 @@ _ **devices**
 ## unknown
 
 * D Invoke :white_circle:
-* [Wfuzz](https://github.com/xmendez/wfuzz) :white_circle:
+* [Wfuzz](https://github.com/xmendez/wfuzz) :white_circle:  
+   Es para usar fuerza bruta para logearse en una pagina y para encontrar vulnerabildades.
 * [Fluxion](https://github.com/FluxionNetwork/fluxion) :white_circle:
 * [SpookFlare](https://github.com/hlldz/SpookFlare) :white_circle:
 * [Antipwny](https://github.com/rvazarkar/antipwny) :white_circle:
