@@ -2,17 +2,22 @@
 
 ## Legenda
 
-* :white_circle: No se ah usado
-* :heavy_check_mark: Probado y testeado
-* :whale: Con Imagen Docker
-* :x: Dead
-* :small_orange_diamond: Error: no se usar la herramienta o no se instalarla.
-* :star: Favorito
-* :earth_americas: Web site
-* :moyai: Devices
-* :floppy_disk: Command Line
+* Estado
+  * :white_circle: No se ah usado
+  * :heavy_check_mark: Probado y testeado
+  * :whale: Con Imagen Docker
+  * :x: Dead
+* Typo
+  * :small_orange_diamond: Error: no se usar la herramienta o no se instalarla.
+  * :star: Favorito
+  * :earth_americas: Web site
+  * :moyai: Devices
+  * :floppy_disk: Command Line
 
 ## Remote Access Tools
+
+:floppy_disk: _**command line**
+
 
 * [Pupy](https://github.com/n1nj4sec/pupy) :small_orange_diamond:
 * [AhMyth](https://github.com/AhMyth/AhMyth-Android-RAT) :white_circle:
@@ -39,9 +44,13 @@
 
 ## Net Scaner
 
+:floppy_disk: _**command line**
+
 * nmap :heavy_check_mark:
 
 ## uncategorized
+
+:floppy_disk: _**command line**
 
 * D Invoke :white_circle:
 * [Wfuzz](https://github.com/xmendez/wfuzz) :white_circle:  
@@ -80,18 +89,26 @@
 
 ## Penetration
 
+:floppy_disk: _**command line**
+
 * [BruteSpray](https://github.com/x90skysn3k/brutespray) :white_circle:
 
 ## Password finder
+
+:floppy_disk: _**command line**
 
 * [Cr3dOv3r](https://github.com/D4Vinci/Cr3dOv3r) :white_circle:
 
 ## fishing
 
+:floppy_disk: _**command line**
+
 * [Trape](https://github.com/boxug/trape) :white_circle:
 * [Phishery](https://github.com/ryhanson/phishery) :white_circle:
 
 ## Sniff
+
+:floppy_disk: _**command line**
 
 * [NetRipper](https://github.com/NytroRST/NetRipper) :white_circle:
 * [Net-Creds](https://github.com/DanMcInerney/net-creds) :white_circle:
@@ -117,10 +134,14 @@
 
 ## Spy
 
+:floppy_disk: _**command line**
+
 * [OSXChromeDecrypt](https://github.com/thanatoskira/OSXChromeDecrypt) :white_circle:
 * [(s)AINT](https://github.com/tiagorlampert/sAINT) :white_circle:
 
 ## Trojan
+
+:floppy_disk: _**command line**
 
 * [Trojanizer](https://github.com/r00t-3xp10it/trojanizer) :white_circle:
 * [Macro Pack](https://github.com/sevagas/macro_pack) :white_circle:
@@ -128,9 +149,13 @@
 
 ## Pass the hash attack
 
+:floppy_disk: _**command line**
+
 * [Ketshash](https://github.com/cyberark/ketshash) :white_circle:
 
 ## brute froce & post explotation
+
+:floppy_disk: _**command line**
 
 * [Enumdb](https://github.com/m8r0wn/enumdb) :white_circle:
 * [Hydra](https://github.com/vanhauser-thc/thc-hydra) :white_circle:
@@ -138,16 +163,20 @@
 
 ## meta exploit
 
+:floppy_disk: _**command line**
+
 * [Vulnerable OS Collection: Command Injection](https://github.com/pentesteracademy/vulnoscollection) :white_circle:
 
 ## Craking
 
- _ **tools**
+:floppy_disk: _**command line**
 
 * [hashcat](https://github.com/hashcat/hashcat) :white_circle:
 * John the Ripper :white_circle:
 
 ## ONSIT
+
+:floppy_disk: _**command line**
 
 * [OSRFramework](https://github.com/i3visio/osrframework) :heavy_check_mark:  
     No logro crear una imagen de docker
@@ -173,7 +202,7 @@
     Busca infromacion sobre cuentas gmail.
 * [InstagramOSINT](https://github.com/sc1341/InstagramOSINT)
 
-### web
+:earth_americas: _**webs**  
 
 * Maltego
 * [who.is](https://who.is/) :white_circle:
@@ -207,15 +236,11 @@
 
 ## VPN
 
+:floppy_disk: _**command line**
+
 [proxychains](https://github.com/haad/proxychains) :white_circle:
 
-## Proxys
-
-**tools**  
-
-* proxychains
-
-**webs**
+:earth_americas: _**webs**  
 
 * [spy.one](https://spys.one/en/)
 * [free-proxy-list](https://free-proxy-list.net/)
