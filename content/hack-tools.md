@@ -8,6 +8,9 @@
 * :x: Dead
 * :small_orange_diamond: Error: no se usar la herramienta o no se instalarla.
 * :star: Favorito
+* :earth_americas: Web site
+* :moyai: Devices
+* :floppy_disk: Command Line
 
 ## Remote Access Tools
 
@@ -30,7 +33,7 @@
 * [SpookFlare](https://github.com/hlldz/SpookFlare) :white_circle:  
     Para windwos, crea payload para acceso remoto y supuestamente es indetctabble para windows defender.
 
-_ **devices**
+:moyai: _**devices**
 
 * WiFi Duck
 
@@ -66,7 +69,7 @@ _ **devices**
 * [Autowasp](https://github.com/GovTechCSG/Autowasp) :white_circle:
 * [goca](https://github.com/gocaio/goca) :white_circle:
 
-webs
+:earth_americas: _**webs**
 
 * [exploit-db](https://www.exploit-db.com/) :white_circle:
 * [cyberforensics](http://www.cyberforensics.in/AccessDenied.aspx?ReturnUrl=%2fProducts%2fCybercheck.aspx) :white_circle:
@@ -90,8 +93,6 @@ webs
 
 ## Sniff
 
-command line
-
 * [NetRipper](https://github.com/NytroRST/NetRipper) :white_circle:
 * [Net-Creds](https://github.com/DanMcInerney/net-creds) :white_circle:
     Busca credenciales como user y contrasenas, en protocolos como: HTTP,FTP,SMTP,SMB.
@@ -112,7 +113,7 @@ command line
 * [Fluxion](https://github.com/FluxionNetwork/fluxion) :white_circle:  
       Creo que captura el handchake.
 
-webs  
+:earth_americas: _**webs**  
 
 ## Spy
 
@@ -147,8 +148,6 @@ webs
 * John the Ripper :white_circle:
 
 ## ONSIT
-
-### tools
 
 * [OSRFramework](https://github.com/i3visio/osrframework) :heavy_check_mark:  
     No logro crear una imagen de docker
