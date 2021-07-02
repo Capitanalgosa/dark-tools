@@ -38,7 +38,7 @@ _ **devices**
 
 * nmap :heavy_check_mark:
 
-## unknown
+## uncategorized
 
 * D Invoke :white_circle:
 * [Wfuzz](https://github.com/xmendez/wfuzz) :white_circle:  
@@ -46,7 +46,8 @@ _ **devices**
 * [Antipwny](https://github.com/rvazarkar/antipwny) :white_circle:  
     Ni idea
 * [Bleah](https://github.com/evilsocket/bleah) :x:
-* [Volatility](https://github.com/volatilityfoundation/volatility) :white_circle:
+* [Volatility](https://github.com/volatilityfoundation/volatility) :white_circle:  
+    Analiza imagenes de sistema operativos.
 * [Evil-Droid](https://github.com/M4sc3r4n0/Evil-Droid) :white_circle:
 * [SessionGopher](https://github.com/Arvanaghi/SessionGopher) :white_circle:
 * aireplay-ng :white_circle:
