@@ -195,6 +195,11 @@ webs
 * [dehashed](https://dehashed.com/?__cf_chl_jschl_tk__=3f81307f69c6a87eccb2dd3289991dd375a217c3-1624200797-0-ASa8RCZnzqinh8O5vIHHlQIGu28w1_Es5iT1Vdh8RaOpc4iytueZsVbZXO-Y7qLA87ZMBlRVdM_PaqMEX_sXi3TH-q8uHDK62nFfzKF9nqx-VBQhA_N_As9ylOd3egpJ01OGPIEsCm2tCA_RawGrpQiEbMbdyUHY3HTdyp4eM2rknjlEsdjmGyATM2eqhz1PtP00tvMIyYlBxE4VZgJFgeNaURqljJm6mLFA_6bIo1jwTkjROEkY6Kth0tP6Oe_6x6v2dZ3oWv4wIeiUwWeMR8ZXOp6jFqADQdJu3kHYKjjBWOYDyiMatrYoto4HoLFbGOfG-ElNiZGSadH8nLpw6o8iuMlC06KIwfcOKUkpV3qDHcpMkRHcoUfYJj09Yd0ufjuZzx2EDR06azB374I0F08) :white_circle:
 * [metricsparrow](http://metricsparrow.com/toolkit/email-permutator/) :white_circle:
 * [mxtoolbox](https://mxtoolbox.com/EmailHeaders.aspx) :white_circle:
+* [whois.net](https://www.whois.net)
+* [whois.icann.org](https://whois.icann.org/en)
+* [whois.com](https://www.whois.com/whois/)
+* [namecheap](https://www.namecheap.com/domains/who...)
+* [register](http://www.register.com/whois.rcmx)
 
 ## VPN
 
