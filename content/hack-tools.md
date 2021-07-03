@@ -17,6 +17,7 @@
   * :apple: Apple
   * :penguin: Linux
   * :control_knobs: Windows
+  * :alien: Android
 
 ## Syntax
 
