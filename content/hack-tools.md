@@ -21,7 +21,7 @@
 
 ## Syntax
 
-/Estado/ | /Typo/ | /S.O atacante/ | /S.O victima/ | 
+/Estado/ | /S.O atacante/ | /S.O victima/ | 
 
 ## nav
 
