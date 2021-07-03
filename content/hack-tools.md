@@ -34,7 +34,7 @@
 
 ## Remote Access Tools
 
-[:arrow_backward:](#nav) back  
+[:arrow_backward:](#nav) [back](#nav)  
 
 :floppy_disk: _**command line**
 
@@ -64,7 +64,7 @@
 
 ## Net Scaner
 
-[:arrow_backward:](#nav) back  
+[:arrow_backward:](#nav) [back](#nav)  
 
 :floppy_disk: _**command line**
 
@@ -72,7 +72,7 @@
 
 ## uncategorized
 
-[:arrow_backward:](#nav) back
+[:arrow_backward:](#nav) [back](#nav)  
 
 :floppy_disk: _**command line**
 
@@ -113,7 +113,7 @@
 
 ## Penetration
 
-[:arrow_backward:](#nav) back  
+[:arrow_backward:](#nav) [back](#nav)  
 
 :floppy_disk: _**command line**
 
@@ -121,7 +121,7 @@
 
 ## Password finder
 
-[:arrow_backward:](#nav) back  
+[:arrow_backward:](#nav) [back](#nav)  
 
 :floppy_disk: _**command line**
 
@@ -129,7 +129,7 @@
 
 ## fishing
 
-[:arrow_backward:](#nav) back  
+[:arrow_backward:](#nav) [back](#nav)  
 
 :floppy_disk: _**command line**
 
@@ -138,7 +138,7 @@
 
 ## Sniff
 
-[:arrow_backward:](#nav) back  
+[:arrow_backward:](#nav) [back](#nav)  
 
 :floppy_disk: _**command line**
 
@@ -166,12 +166,16 @@
 
 ## Spy
 
+[:arrow_backward:](#nav) [back](#nav)  
+
 :floppy_disk: _**command line**
 
 * [OSXChromeDecrypt](https://github.com/thanatoskira/OSXChromeDecrypt) :white_circle:
 * [(s)AINT](https://github.com/tiagorlampert/sAINT) :white_circle:
 
 ## Trojan
+
+[:arrow_backward:](#nav) [back](#nav)  
 
 :floppy_disk: _**command line**
 
@@ -181,11 +185,15 @@
 
 ## Pass the hash attack
 
+[:arrow_backward:](#nav) [back](#nav)  
+
 :floppy_disk: _**command line**
 
 * [Ketshash](https://github.com/cyberark/ketshash) :white_circle:
 
 ## brute froce & post explotation
+
+[:arrow_backward:](#nav) [back](#nav)  
 
 :floppy_disk: _**command line**
 
@@ -195,11 +203,15 @@
 
 ## meta exploit
 
+[:arrow_backward:](#nav) [back](#nav)  
+
 :floppy_disk: _**command line**
 
 * [Vulnerable OS Collection: Command Injection](https://github.com/pentesteracademy/vulnoscollection) :white_circle:
 
 ## Craking
+
+[:arrow_backward:](#nav) [back](#nav)  
 
 :floppy_disk: _**command line**
 
@@ -207,6 +219,8 @@
 * John the Ripper :white_circle:
 
 ## ONSIT
+
+[:arrow_backward:](#nav) [back](#nav)  
 
 :floppy_disk: _**command line**
 
@@ -267,6 +281,8 @@
 * [sos.ca.gov](https://www.sos.ca.gov/business-programs/business-entities/)
 
 ## VPN
+
+[:arrow_backward:](#nav) [back](#nav)  
 
 :floppy_disk: _**command line**
 
