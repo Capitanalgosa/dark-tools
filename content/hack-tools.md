@@ -134,7 +134,11 @@
 
 :floppy_disk: _**command line**
 
-* [Cr3dOv3r](https://github.com/D4Vinci/Cr3dOv3r) :white_circle:
+* [Cr3dOv3r](https://github.com/D4Vinci/Cr3dOv3r) :white_circle:  
+
+:earth_americas: _**webs**  
+
+* [Google Hacking Database](https://www.exploit-db.com/)
 
 ## fishing
 
