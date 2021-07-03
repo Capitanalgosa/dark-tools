@@ -13,7 +13,7 @@
   * :earth_americas: Web site
   * :moyai: Devices
   * :floppy_disk: Command Line
-* Sistemas Operativos
+* Sistemas Operativos (S.O)
   * :apple: Apple
   * :penguin: Linux
   * :control_knobs: Windows
