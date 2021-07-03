@@ -7,12 +7,20 @@
   * :heavy_check_mark: Probado y testeado
   * :whale: Con Imagen Docker
   * :x: Dead
-* Typo
-  * :small_orange_diamond: Error: no se usar la herramienta o no se instalarla.
+  * :small_orange_diamond: Error: no se usar la herramienta o no se instalarla o tiene mucho errores.
   * :star: Favorito
+* Typo
   * :earth_americas: Web site
   * :moyai: Devices
   * :floppy_disk: Command Line
+* Sistemas Operativos
+  * :apple: Apple
+  * :penguin: Linux
+  * :control_knobs: Windows
+
+## Syntax
+
+/Estado/ | /Typo/ | /S.O atacante/ | /S.O victima/ | 
 
 ## nav
 
