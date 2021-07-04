@@ -97,7 +97,8 @@
 * [SessionGopher](https://github.com/Arvanaghi/SessionGopher) :white_circle:  
     Guarda los archivos de autentificacion de PuTTY, WinSCP, FileZilla, SuperPuTTY, and RDP.
 * aireplay-ng :white_circle:  
-* [WAIDPS](https://github.com/SYWorks/waidps) :white_circle:
+* [WAIDPS](https://github.com/SYWorks/waidps) :white_circle:  
+    Wireless Auditing, Intrusion Detection & Prevention System.
 * [Pythem](https://github.com/m4n3dw0lf/pythem) :white_circle:
 * [WiFi-Pumpkin](https://github.com/P0cL4bs/WiFi-Pumpkin) :white_circle:
 * [jSQL Injection](https://github.com/ron190/jsql-injection) :white_circle:
