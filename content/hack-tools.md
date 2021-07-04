@@ -95,7 +95,8 @@
     Analiza imagenes de sistema operativos, no se si analize el sistema operativo actual. seria logico no?
 * [Evil-Droid](https://github.com/M4sc3r4n0/Evil-Droid) :white_circle:
 * [SessionGopher](https://github.com/Arvanaghi/SessionGopher) :white_circle:
-* aireplay-ng :white_circle:
+* aireplay-ng :white_circle:  
+    Guarda los archivos de autentificacion de PuTTY, WinSCP, FileZilla, SuperPuTTY, and RDP.
 * [WAIDPS](https://github.com/SYWorks/waidps) :white_circle:
 * [Pythem](https://github.com/m4n3dw0lf/pythem) :white_circle:
 * [WiFi-Pumpkin](https://github.com/P0cL4bs/WiFi-Pumpkin) :white_circle:
