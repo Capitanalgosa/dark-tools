@@ -236,7 +236,8 @@ This tool can be used for redteaming, pentests, demos, and social engineering as
 
 :floppy_disk: _**command line**
 
-* [Ketshash](https://github.com/cyberark/ketshash) :white_circle:
+* [Ketshash](https://github.com/cyberark/ketshash) :white_circle:  
+    little tool for detecting suspicious privileged NTLM connections, in particular Pass-The-Hash attack, based on event viewer logs.
 
 ## brute froce & post explotation
 
@@ -244,9 +245,16 @@ This tool can be used for redteaming, pentests, demos, and social engineering as
 
 :floppy_disk: _**command line**
 
-* [Enumdb](https://github.com/m8r0wn/enumdb) :white_circle:
-* [Hydra](https://github.com/vanhauser-thc/thc-hydra) :white_circle:
-* [Blazy](https://github.com/s0md3v/Blazy) :white_circle:
+* [Enumdb](https://github.com/m8r0wn/enumdb) :white_circle:  
+     Enumdb is a relational database brute force and post exploitation tool for MySQL and MSSQL. When provided a list of usernames and/or passwords, it will cycle through each host looking for valid credentials. By default, enumdb will use newly discovered credentials to automatically search for sensitive data fields via keyword searches on table or column names. This information can then be extracted and reported to a .csv or .xlsx output file.
+* [Hydra](https://github.com/vanhauser-thc/thc-hydra) :white_circle:  
+    Number one of the biggest security holes are passwords, as every password
+security study shows.
+This tool is a proof of concept code, to give researchers and security
+consultants the possibility to show how easy it would be to gain unauthorized
+access from remote to a system.
+* [Blazy](https://github.com/s0md3v/Blazy) :white_circle:  
+    Blazy is a modern login page bruteforcer.
 
 ## meta exploit
 
