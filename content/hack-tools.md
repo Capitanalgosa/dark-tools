@@ -99,7 +99,8 @@
 * aireplay-ng :white_circle:  
 * [WAIDPS](https://github.com/SYWorks/waidps) :white_circle:  
     Wireless Auditing, Intrusion Detection & Prevention System.
-* [Pythem](https://github.com/m4n3dw0lf/pythem) :white_circle:
+* [Pythem](https://github.com/m4n3dw0lf/pythem) :white_circle:  
+    pythem is a multi-purpose pentest framework written in Python. It has been developed to be used by security researchers and security professionals.
 * [WiFi-Pumpkin](https://github.com/P0cL4bs/WiFi-Pumpkin) :white_circle:
 * [jSQL Injection](https://github.com/ron190/jsql-injection) :white_circle:
 * [Hcitool & Gatttool](https://github.com/aguedes/bluez) :white_circle:
