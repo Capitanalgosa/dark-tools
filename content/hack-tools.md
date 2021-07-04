@@ -350,7 +350,8 @@ multiple public data sources that include:
 
 :floppy_disk: _**command line**
 
-[proxychains](https://github.com/haad/proxychains) :white_circle:
+* [proxychains](https://github.com/haad/proxychains) :white_circle:  
+ProxyChains is a UNIX program, that hooks network-related libc functions in dynamically linked programs via a preloaded DLL and redirects the connections through SOCKS4a/5 or HTTP proxies.
 
 :earth_americas: _**webs**  
 
