@@ -114,12 +114,17 @@
      sqlmap is an open source penetration testing tool that automates the process of detecting and exploiting SQL injection flaws and taking over of database servers. It comes with a powerful detection engine, many niche features for the ultimate penetration tester, and a broad range of switches including database fingerprinting, over data fetching from the database, accessing the underlying file system, and executing commands on the operating system via out-of-band connections.
 * [wifiphisher](https://github.com/wifiphisher/wifiphisher) :white_circle:  
      Wifiphisher is a rogue Access Point framework for conducting red team engagements or Wi-Fi security testing. Using Wifiphisher, penetration testers can easily achieve a man-in-the-middle position against wireless clients by performing targeted Wi-Fi association attacks. Wifiphisher can be further used to mount victim-customized web phishing attacks against the connected clients in order to capture credentials (e.g. from third party login pages or WPA/WPA2 Pre-Shared Keys) or infect the victim stations with malwares.
-* [Wifite2](https://github.com/derv82/wifite2) :white_circle:
-* [Ncrack](https://github.com/nmap/ncrack) :white_circle:
-* [Commix](https://github.com/commixproject/commix) :white_circle:
-* [BloodHound](https://github.com/BloodHoundAD/BloodHound) :white_circle:
+* [Wifite2](https://github.com/derv82/wifite2) :white_circle:  
+     This repo is a complete re-write of wifite, a Python script for auditing wireless networks. Wifite runs existing wireless-auditing tools for you. Stop memorizing command arguments & switches!. Wifite is designed to use all known methods for retrieving the password of a wireless access point (router).
+* [Ncrack](https://github.com/nmap/ncrack) :white_circle:  
+     Ncrack is a high-speed network authentication cracking tool. It was built to help companies secure their networks by proactively testing all their hosts and networking devices for poor passwords. Security professionals also rely on Ncrack when auditing their clients. Ncrack was designed using a modular approach, a command-line syntax similar to Nmap and a dynamic engine that can adapt its behaviour based on network feedback. It allows for rapid, yet reliable large-scale auditing of multiple hosts.
+* [Commix](https://github.com/commixproject/commix) :white_circle:  
+     Commix (short for [comm]and [i]njection e[x]ploiter) is an open source penetration testing tool, written by Anastasios Stasinopoulos (@ancst), that automates the detection and exploitation of command injection vulnerabilities.
+* [BloodHound](https://github.com/BloodHoundAD/BloodHound) :white_circle:  
+     BloodHound uses graph theory to reveal the hidden and often unintended relationships within an Active Directory environment. Attackers can use BloodHound to easily identify highly complex attack paths that would otherwise be impossible to quickly identify. Defenders can use BloodHound to identify and eliminate those same attack paths. Both blue and red teams can use BloodHound to easily gain a deeper understanding of privilege relationships in an Active Directory environment.
 * [Autowasp](https://github.com/GovTechCSG/Autowasp) :white_circle:
-* [goca](https://github.com/gocaio/goca) :white_circle:
+* [goca](https://github.com/gocaio/goca) :white_circle:  
+     Goca is a FOCA fork written in Go, which is a tool used mainly to find metadata and hidden information in the documents its scans. These documents may be on web pages, and can be downloaded and analyzed with Goca.
 
 :earth_americas: _**webs**
 
