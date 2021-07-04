@@ -188,11 +188,12 @@
     WireSpy allows attackers to set up quick honeypots to carry out MITMAs. Monitoring and logging functionality is implemented in order to keep records of the victims' traffic/activities. Other tools can be used together with Wirespy to conduct more advanced attacks.
 * [xerosploit](https://github.com/LionSec/xerosploit) :white_circle:  
     Xerosploit is a penetration testing toolkit whose goal is to perform man in the middle attacks for testing purposes. It brings various modules that allow to realise efficient attacks, and also allows to carry out denial of service attacks and port scanning. Powered by bettercap and nmap.
-* [SniffAir](https://github.com/Tylous/SniffAir) :white_circle:
-* [Evilginx](https://github.com/kgretzky/evilginx) :white_circle:
-* [BetterCAP](https://github.com/evilsocket/bettercap) :heavy_check_mark: :star:
-* [mosint](https://github.com/alpkeskin/mosint) :white_circle:
-    Busca informacion de un correo electronico, el detalle es que pide 3s apikeys de 3s lugares diferentes. y creo que son pagas.  
+* [SniffAir](https://github.com/Tylous/SniffAir) :white_circle:  
+    SniffAir is an open-source wireless security framework which provides the ability to easily parse passively collected wireless data as well as launch sophisticated wireless attacks. SniffAir takes care of the hassle associated with managing large or multiple pcap files while thoroughly cross-examining and analyzing the traffic, looking for potential security flaws. Along with the prebuilt queries, SniffAir allows users to create custom queries for analyzing the wireless data stored in the backend SQL database. SniffAir is built on the concept of using these queries to extract data for wireless penetration test reports. The data can also be leveraged in setting up sophisticated wireless attacks included in SniffAir as modules.
+* [Evilginx](https://github.com/kgretzky/evilginx) :white_circle:  
+    Evilginx is a man-in-the-middle attack framework used for phishing credentials and session cookies of any web service. It's core runs on Nginx HTTP server, which utilizes proxy_pass and sub_filter to proxy and modify HTTP content, while intercepting traffic between client and server.
+* [BetterCAP](https://github.com/bettercap/bettercap) :heavy_check_mark: :star:  
+    bettercap is a powerful, easily extensible and portable framework written in Go which aims to offer to security researchers, red teamers and reverse engineers an easy to use, all-in-one solution with all the features they might possibly need for performing reconnaissance and attacking WiFi networks, Bluetooth Low Energy devices, wireless HID devices and Ethernet networks. 
 * [arpspoof](https://github.com/pentesteracademy/airodump-scan-visualizer) :white_circle:
 * [MITMf](https://github.com/byt3bl33d3r/MITMf) :white_circle:
 * [Fluxion](https://github.com/FluxionNetwork/fluxion) :white_circle:  
@@ -283,6 +284,8 @@
 * [GHunt](https://github.com/mxrch/GHunt) :heavy_check_mark:
     Busca infromacion sobre cuentas gmail.
 * [InstagramOSINT](https://github.com/sc1341/InstagramOSINT)
+* [mosint](https://github.com/alpkeskin/mosint) :white_circle:  
+    Busca informacion de un correo electronico, el detalle es que pide 3s apikeys de 3s lugares diferentes. y creo que son pagas. 
 
 :earth_americas: _**webs**  
 
