@@ -105,11 +105,15 @@
     The WiFi-Pumpkin is a rogue AP framework to easily create these fake networks, all while forwarding legitimate traffic to and from the unsuspecting target. It comes stuffed with features, including rogue Wi-Fi access points, deauth attacks on client APs, a probe request and credentials monitor, transparent proxy, Windows update attack, phishing manager, ARP Poisoning, DNS Spoofing, Pumpkin-Proxy, and image capture on the fly. moreover, the WiFi-Pumpkin is a very complete framework for auditing Wi-Fi security check the list of features is quite broad.
 * [wifipumpkin3](https://github.com/P0cL4bs/wifipumpkin3) :white_circle:  
      wifipumpkin3 is powerful framework for rogue access point attack, written in Python, that allow and offer to security researchers, red teamers and reverse engineers to mount a wireless network to conduct a man-in-the-middle attack.
-* [jSQL Injection](https://github.com/ron190/jsql-injection) :white_circle:
+* [jSQL Injection](https://github.com/ron190/jsql-injection) :white_circle:  
+     jSQL Injection is a lightweight application used to find database information from a distant server.
 * [Hcitool & Gatttool](https://github.com/aguedes/bluez) :white_circle:
-* [Blue Hydra](https://github.com/pwnieexpress/blue_hydra) :white_circle:
-* [sqlmap](https://github.com/sqlmapproject/sqlmap) :white_circle:
-* [wifiphisher](https://github.com/wifiphisher/wifiphisher) :white_circle:
+* [Blue Hydra](https://github.com/pwnieexpress/blue_hydra) :white_circle:  
+     BlueHydra is a Bluetooth device discovery service built on top of the bluez library. BlueHydra makes use of ubertooth where available and attempts to track both classic and low energy (LE) bluetooth devices over time.
+* [sqlmap](https://github.com/sqlmapproject/sqlmap) :white_circle:  
+     sqlmap is an open source penetration testing tool that automates the process of detecting and exploiting SQL injection flaws and taking over of database servers. It comes with a powerful detection engine, many niche features for the ultimate penetration tester, and a broad range of switches including database fingerprinting, over data fetching from the database, accessing the underlying file system, and executing commands on the operating system via out-of-band connections.
+* [wifiphisher](https://github.com/wifiphisher/wifiphisher) :white_circle:  
+     Wifiphisher is a rogue Access Point framework for conducting red team engagements or Wi-Fi security testing. Using Wifiphisher, penetration testers can easily achieve a man-in-the-middle position against wireless clients by performing targeted Wi-Fi association attacks. Wifiphisher can be further used to mount victim-customized web phishing attacks against the connected clients in order to capture credentials (e.g. from third party login pages or WPA/WPA2 Pre-Shared Keys) or infect the victim stations with malwares.
 * [Wifite2](https://github.com/derv82/wifite2) :white_circle:
 * [Ncrack](https://github.com/nmap/ncrack) :white_circle:
 * [Commix](https://github.com/commixproject/commix) :white_circle:
