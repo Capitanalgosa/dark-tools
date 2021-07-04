@@ -174,16 +174,20 @@
 
 :floppy_disk: _**command line**
 
-* [NetRipper](https://github.com/NytroRST/NetRipper) :white_circle:
-* [Net-Creds](https://github.com/DanMcInerney/net-creds) :white_circle:
+* [NetRipper](https://github.com/NytroRST/NetRipper) :white_circle:  
+    NetRipper is a post exploitation tool targeting Windows systems which uses API hooking in order to intercept network traffic and encryption related functions from a low privileged user, being able to capture both plain-text traffic and encrypted traffic before encryption/after decryption.
+* [Net-Creds](https://github.com/DanMcInerney/net-creds) :white_circle:  
     Busca credenciales como user y contrasenas, en protocolos como: HTTP,FTP,SMTP,SMB.
-* [Airodump Scan Visualizer](https://github.com/pentesteracademy/airodump-scan-visualizer) :white_circle:
-* [PCredz](https://github.com/lgandx/PCredz) :white_circle:
-* [QRLJacking](https://github.com/OWASP/QRLJacking) :white_circle:
-* [Wirespy](https://github.com/AresS31/wirespy) :white_circle:
-    El mejor snifer que eh encontrado sin duda 
-* [xerosploit](https://github.com/LionSec/xerosploit) :white_circle:
-    Este tambien es bueno
+* [Airodump Scan Visualizer](https://github.com/pentesteracademy/airodump-scan-visualizer) :white_circle:  
+    Airodump Scan Visualizer is a tool to present the Airodump-ng WiFi scan results in better organized, searchable, sortable manner with visualization support.
+* [PCredz](https://github.com/lgandx/PCredz) :white_circle:  
+    This tool extracts Credit card numbers, NTLM(DCE-RPC, HTTP, SQL, LDAP, etc), Kerberos (AS-REQ Pre-Auth etype 23), HTTP Basic, SNMP, POP, SMTP, FTP, IMAP, etc from a pcap file or from a live interface.
+* [QRLJacking](https://github.com/OWASP/QRLJacking) :white_circle:  
+    QRLJacking or Quick Response Code Login Jacking is a simple social engineering attack vector capable of session hijacking affecting all applications that rely on the “Login with QR code” feature as a secure way to login into accounts. In a nutshell, the victim scans the attacker’s QR code which results in session hijacking.
+* [Wirespy](https://github.com/AresS31/wirespy) :white_circle:  
+    WireSpy allows attackers to set up quick honeypots to carry out MITMAs. Monitoring and logging functionality is implemented in order to keep records of the victims' traffic/activities. Other tools can be used together with Wirespy to conduct more advanced attacks.
+* [xerosploit](https://github.com/LionSec/xerosploit) :white_circle:  
+    Xerosploit is a penetration testing toolkit whose goal is to perform man in the middle attacks for testing purposes. It brings various modules that allow to realise efficient attacks, and also allows to carry out denial of service attacks and port scanning. Powered by bettercap and nmap.
 * [SniffAir](https://github.com/Tylous/SniffAir) :white_circle:
 * [Evilginx](https://github.com/kgretzky/evilginx) :white_circle:
 * [BetterCAP](https://github.com/evilsocket/bettercap) :heavy_check_mark: :star:
