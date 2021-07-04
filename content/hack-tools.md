@@ -194,10 +194,11 @@
     Evilginx is a man-in-the-middle attack framework used for phishing credentials and session cookies of any web service. It's core runs on Nginx HTTP server, which utilizes proxy_pass and sub_filter to proxy and modify HTTP content, while intercepting traffic between client and server.
 * [BetterCAP](https://github.com/bettercap/bettercap) :heavy_check_mark: :star:  
     bettercap is a powerful, easily extensible and portable framework written in Go which aims to offer to security researchers, red teamers and reverse engineers an easy to use, all-in-one solution with all the features they might possibly need for performing reconnaissance and attacking WiFi networks, Bluetooth Low Energy devices, wireless HID devices and Ethernet networks. 
-* [arpspoof](https://github.com/pentesteracademy/airodump-scan-visualizer) :white_circle:
-* [MITMf](https://github.com/byt3bl33d3r/MITMf) :white_circle:
+* [arpspoof](https://github.com/pentesteracademy/airodump-scan-visualizer) :white_circle:  
+    Airodump Scan Visualizer is a tool to present the Airodump-ng WiFi scan results in better organized, searchable, sortable manner with visualization support.
+* [MITMf](https://github.com/byt3bl33d3r/MITMf) :x:
 * [Fluxion](https://github.com/FluxionNetwork/fluxion) :white_circle:  
-      Creo que captura el handchake.
+      Fluxion is a security auditing and social-engineering research tool. It is a remake of linset by vk496 with (hopefully) fewer bugs and more functionality. The script attempts to retrieve the WPA/WPA2 key from a target access point by means of a social engineering (phishing) attack. It's compatible with the latest release of Kali (rolling). Fluxion's attacks' setup is mostly manual, but experimental auto-mode handles some of the attacks' setup parameters. Read the FAQ before requesting issues.
 
 :earth_americas: _**webs**  
 
@@ -207,8 +208,9 @@
 
 :floppy_disk: _**command line**
 
-* [OSXChromeDecrypt](https://github.com/thanatoskira/OSXChromeDecrypt) :white_circle:
-* [(s)AINT](https://github.com/tiagorlampert/sAINT) :white_circle:
+* [OSXChromeDecrypt](https://github.com/thanatoskira/OSXChromeDecrypt) :white_circle:  
+     Decrypt Google Chrome and Chromium Passwords on Mac OS X. No dependencies, quick, fast.
+* [(s)AINT](https://github.com/tiagorlampert/sAINT) :x:
 
 ## Trojan
 
@@ -216,9 +218,17 @@
 
 :floppy_disk: _**command line**
 
-* [Trojanizer](https://github.com/r00t-3xp10it/trojanizer) :white_circle:
-* [Macro Pack](https://github.com/sevagas/macro_pack) :white_circle:
-* [Veil-Framework](https://github.com/Veil-Framework/Veil) :white_circle:
+* [Trojanizer](https://github.com/r00t-3xp10it/trojanizer) :white_circle:  
+     The Trojanizer tool uses WinRAR (SFX) to compress the two files input by user,
+and transforms it into an SFX executable(.exe) archive. The sfx archive when
+executed it will run both files (our payload and the legit appl at the same time). To make the archive less suspicious to target at execution time, trojanizer will
+try to replace the default icon(.ico) of the sfx file with a user-selected one,
+and supress all SFX archive sandbox msgs (Silent=1 | Overwrite=1).
+* [Macro Pack](https://github.com/sevagas/macro_pack) :white_circle:  
+     The macro_pack is a tool used to automatize obfuscation and generation of retro formats such as MS Office documents or VBS like format. Now it also handles various shortcuts formats.
+This tool can be used for redteaming, pentests, demos, and social engineering assessments. macro_pack will simplify antimalware solutions bypass and automatize the process from vb source to final Office document or other payload type.
+* [Veil-Framework](https://github.com/Veil-Framework/Veil) :white_circle:  
+    Veil is a tool designed to generate metasploit payloads that bypass common anti-virus solutions.
 
 ## Pass the hash attack
 
