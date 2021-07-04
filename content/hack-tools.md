@@ -297,16 +297,20 @@ multiple public data sources that include:
       Twint is an advanced Twitter scraping tool written in Python that allows for scraping Tweets from Twitter profiles without using Twitter's API.
 * [Osintgram](https://github.com/Datalux/Osintgram) :heavy_check_mark: [:whale:](https://hub.docker.com/repository/docker/capitanalgosa/osintgram)  
      Osintgram is a OSINT tool on Instagram to collect, analyze, and run reconnaissance.
-* [phoneinfoga](https://github.com/sundowndev/phoneinfoga) :white_circle: [:whale:](https://hub.docker.com/repository/docker/capitanalgosa/phoneinfoga "Capitanalgosa") [:whale:](https://hub.docker.com/r/sundowndev/phoneinfoga "Officical")
-* [sherlock](https://github.com/sherlock-project/sherlock) :heavy_check_mark: :star: :whale:
-  * [:whale:](https://hub.docker.com/repository/docker/capitanalgosa/sherlock) capitanalgosa,official
-* [skiptracer](https://gitlab.com/illwill/skiptracer) :white_circle:
-* [fb-sleep-stats](https://github.com/sqren/fb-sleep-stats) :white_circle:
-* [GHunt](https://github.com/mxrch/GHunt) :heavy_check_mark:
-    Busca infromacion sobre cuentas gmail.
-* [InstagramOSINT](https://github.com/sc1341/InstagramOSINT)
+* [phoneinfoga](https://github.com/sundowndev/phoneinfoga) :white_circle: [:whale:](https://hub.docker.com/repository/docker/capitanalgosa/phoneinfoga "Capitanalgosa") [:whale:](https://hub.docker.com/r/sundowndev/phoneinfoga "Officical")  
+     PhoneInfoga is one of the most advanced tools to scan international phone numbers using only free resources. It allows you to first gather standard information such as country, area, carrier and line type on any international phone number. Then search for footprints on search engines to try to find the VoIP provider or identify the owner.
+* [sherlock](https://github.com/sherlock-project/sherlock) :heavy_check_mark: :star: [:whale:](https://hub.docker.com/repository/docker/capitanalgosa/sherlock)
+     Hunt down social media accounts by username across social networks.
+* [skiptracer](https://gitlab.com/illwill/skiptracer) :white_circle:  
+    Initial attack vectors for recon usually involve utilizing pay-for-data/API (Recon-NG), or paying to utilize transforms (Maltego) to get data mining results. Skiptracer utilizes some basic python webscraping (BeautifulSoup) of PII paywall sites to compile passive information on a target on a ramen noodle budget.
+* [fb-sleep-stats](https://github.com/sqren/fb-sleep-stats) :white_circle:  
+    A small tool to show the potential privacy implications modern social media have. By tracking online/offline status of people on Facebook, it is possible to get an accurate image of their sleep pattern.
+* [GHunt](https://github.com/mxrch/GHunt) :heavy_check_mark:  
+    GHunt is a modulable OSINT tool designed to evolve over the years, and incorporates many techniques to investigate Google accounts, or objects.
+* [InstagramOSINT](https://github.com/sc1341/InstagramOSINT)  :white_circle:  
+    The Instagram OSINT Tool gets a range of information from an Instagram account that you normally wouldn't be able to get from just looking at their profile
 * [mosint](https://github.com/alpkeskin/mosint) :white_circle:  
-    Busca informacion de un correo electronico, el detalle es que pide 3s apikeys de 3s lugares diferentes. y creo que son pagas. 
+    MOSINT is an OSINT Tool for emails. It helps you gather information about the target email.
 
 :earth_americas: _**webs**  
 
