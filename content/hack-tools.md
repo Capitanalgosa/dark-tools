@@ -262,7 +262,8 @@ access from remote to a system.
 
 :floppy_disk: _**command line**
 
-* [Vulnerable OS Collection: Command Injection](https://github.com/pentesteracademy/vulnoscollection) :white_circle:
+* [Vulnerable OS Collection: Command Injection](https://github.com/pentesteracademy/vulnoscollection) :white_circle:  
+     Vulnerable OS Collection is a collection of four Ubuntu based OSes which contain real world vulnerable web applications. The motive behind this project was to enable the pentesters to learn by doing practical attacks. The OSes comes in OVF format and can be imported into Oracle VirtualBox or VMware Workstation Player/Pro. This enables the pentesters to get these ready in less time and start practicing.
 
 ## Craking
 
@@ -270,7 +271,8 @@ access from remote to a system.
 
 :floppy_disk: _**command line**
 
-* [hashcat](https://github.com/hashcat/hashcat) :white_circle:
+* [hashcat](https://github.com/hashcat/hashcat) :white_circle:  
+     hashcat is the world's fastest and most advanced password recovery utility, supporting five unique modes of attack for over 300 highly-optimized hashing algorithms. hashcat currently supports CPUs, GPUs, and other hardware accelerators on Linux, Windows, and macOS, and has facilities to help enable distributed password cracking.
 * John the Ripper :white_circle:
 
 ## ONSIT
@@ -280,11 +282,11 @@ access from remote to a system.
 :floppy_disk: _**command line**
 
 * [OSRFramework](https://github.com/i3visio/osrframework) :heavy_check_mark:  
-    No logro crear una imagen de docker
+    OSRFramework is a GNU AGPLv3+ set of libraries developed by i3visio to perform Open Source Intelligence collection tasks. They include references to a bunch of different applications related to username checking, DNS lookups, information leaks research, deep web search, regular expressions extraction and many others. At the same time, by means of ad-hoc Maltego transforms, OSRFramework provides a way of making these queries graphically as well as several interfaces to interact with like OSRFConsole or a Web interface.
 * [Iky](https://gitlab.com/kennbroorg/iKy.git) :white_circle:  
-    Es parecido a sherlock, con la diferencia que tiene una UI que se crean en un servidor local. te deja buscar emails para saber en que red social se esta usando. (No se puede usar con docker)
-* [Sublist3r](https://github.com/aboul3la/Sublist3r) :heavy_check_mark: :whale:  
-    Sirve para enumerar los subdominios de un dominio.
+    Project iKy is a tool that collects information from an email and shows results in a nice visual interface.
+* [Sublist3r](https://github.com/aboul3la/Sublist3r) :heavy_check_mark: :whale:    
+    Sublist3r is a python tool designed to enumerate subdomains of websites using OSINT. It helps penetration testers and bug hunters collect and gather subdomains for the domain they are targeting. Sublist3r enumerates subdomains using many search engines such as Google, Yahoo, Bing, Baidu and Ask. Sublist3r also enumerates subdomains using Netcraft, Virustotal, ThreatCrowd, DNSdumpster and ReverseDNS.
   * [:whale:](https://hub.docker.com/repository/docker/capitanalgosa/sherlock) capitanalgosa
 * [theHarvester](https://github.com/laramies/theHarvester) :heavy_check_mark: :whale:  
     Encuentra email en un dominio.  
