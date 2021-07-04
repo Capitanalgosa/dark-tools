@@ -141,7 +141,8 @@
 
 :floppy_disk: _**command line**
 
-* [BruteSpray](https://github.com/x90skysn3k/brutespray) :white_circle:
+* [BruteSpray](https://github.com/x90skysn3k/brutespray) :white_circle:  
+    BruteSpray takes nmap GNMAP/XML output or newline separated JSONS and automatically brute-forces services with default credentials using Medusa. BruteSpray can even find non-standard ports by using the -sV inside Nmap.
 
 ## Password finder
 
@@ -150,6 +151,7 @@
 :floppy_disk: _**command line**
 
 * [Cr3dOv3r](https://github.com/D4Vinci/Cr3dOv3r) :white_circle:  
+     Check if the targeted email is in any leaks and then use the leaked password to check it against the websites.
 
 :earth_americas: _**webs**  
 
@@ -161,8 +163,10 @@
 
 :floppy_disk: _**command line**
 
-* [Trape](https://github.com/boxug/trape) :white_circle:
-* [Phishery](https://github.com/ryhanson/phishery) :white_circle:
+* [Trape](https://github.com/boxug/trape) :white_circle:  
+     Trape is an OSINT analysis and research tool, which allows people to track and execute intelligent social engineering attacks in real time. It was created with the aim of teaching the world how large Internet companies could obtain confidential information such as the status of sessions of their websites or services and control their users through their browser, without their knowledge, but It evolves with the aim of helping government organizations, companies and researchers to track the cybercriminals.
+* [Phishery](https://github.com/ryhanson/phishery) :white_circle:  
+     Phishery is a Simple SSL Enabled HTTP server with the primary purpose of phishing credentials via Basic Authentication. Phishery also provides the ability easily to inject the URL into a .docx Word document.
 
 ## Sniff
 
