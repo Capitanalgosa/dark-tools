@@ -288,15 +288,16 @@ access from remote to a system.
 * [Sublist3r](https://github.com/aboul3la/Sublist3r) :heavy_check_mark: :whale:    
     Sublist3r is a python tool designed to enumerate subdomains of websites using OSINT. It helps penetration testers and bug hunters collect and gather subdomains for the domain they are targeting. Sublist3r enumerates subdomains using many search engines such as Google, Yahoo, Bing, Baidu and Ask. Sublist3r also enumerates subdomains using Netcraft, Virustotal, ThreatCrowd, DNSdumpster and ReverseDNS.
   * [:whale:](https://hub.docker.com/repository/docker/capitanalgosa/sherlock) capitanalgosa
-* [theHarvester](https://github.com/laramies/theHarvester) :heavy_check_mark: :whale:  
-    Encuentra email en un dominio.  
-  * [:whale:](https://github.com/Capitanalgosa/theharvester) capitanalgosa - official
-* [twint](https://github.com/twintproject/twint) :white_circle:
-* [Osintgram](https://github.com/Datalux/Osintgram) :heavy_check_mark: :whale:
-  * [:whale:](https://hub.docker.com/repository/docker/capitanalgosa/osintgram) capitanalgosa, official
-* [phoneinfoga](https://github.com/sundowndev/phoneinfoga) :white_circle:
-  * [:whale:](https://hub.docker.com/repository/docker/capitanalgosa/phoneinfoga) capitanalgosa - official
-  * [:whale:](https://hub.docker.com/r/sundowndev/phoneinfoga) official
+* [theHarvester](https://github.com/laramies/theHarvester) :heavy_check_mark: [:whale:](https://github.com/Capitanalgosa/theharvester)  
+      theHarvester is a very simple to use, yet powerful and effective tool designed to be used in the early stages of a
+penetration test or red team engagement. Use it for open source intelligence (OSINT) gathering to help determine a
+company's external threat landscape on the internet. The tool gathers emails, names, subdomains, IPs and URLs using
+multiple public data sources that include:
+* [twint](https://github.com/twintproject/twint) :white_circle:  
+      Twint is an advanced Twitter scraping tool written in Python that allows for scraping Tweets from Twitter profiles without using Twitter's API.
+* [Osintgram](https://github.com/Datalux/Osintgram) :heavy_check_mark: [:whale:](https://hub.docker.com/repository/docker/capitanalgosa/osintgram)  
+     Osintgram is a OSINT tool on Instagram to collect, analyze, and run reconnaissance.
+* [phoneinfoga](https://github.com/sundowndev/phoneinfoga) :white_circle: [:whale:](https://hub.docker.com/repository/docker/capitanalgosa/phoneinfoga "Capitanalgosa") [:whale:](https://hub.docker.com/r/sundowndev/phoneinfoga "Officical")
 * [sherlock](https://github.com/sherlock-project/sherlock) :heavy_check_mark: :star: :whale:
   * [:whale:](https://hub.docker.com/repository/docker/capitanalgosa/sherlock) capitanalgosa,official
 * [skiptracer](https://gitlab.com/illwill/skiptracer) :white_circle:
