@@ -7,3 +7,4 @@
   * [commands.gg](https://commands.gg/starbound) 
 * Items List
   * [starbounditems](https://starbounditems.com/)
+  * [Unique Weapon](https://starbounder.org/Unique_Weapon)
