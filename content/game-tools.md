@@ -13,3 +13,6 @@
   * [Unique Weapon](https://starbounder.org/Unique_Weapon)
   * [Clothing](https://starbounder.org/Clothing)
   * [Cosmetic Armor](https://starbounder.org/Cosmetic_Armor)
+ * Dungeons
+   * [starbounder.org](https://starbounder.org/Dungeon_IDs)
+   * [community.playstarbound](https://community.playstarbound.com/threads/dungeon-and-village-id-assistance.137210/ "POST Ultimo comentario")
