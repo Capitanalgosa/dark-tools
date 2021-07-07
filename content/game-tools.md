@@ -16,3 +16,9 @@
  * Dungeons
    * [starbounder.org](https://starbounder.org/Dungeon_IDs)
    * [community.playstarbound](https://community.playstarbound.com/threads/dungeon-and-village-id-assistance.137210/ "POST Ultimo comentario")
+ * NPC & Monsters
+   * [Spawn Monster Command](https://starbounder.org/Spawn_Monster_Command)
+   * [Monster](https://starbounder.org/Monster)
+   * [Spawn NPC Command](https://starbounder.org/Spawn_NPC_Command)
+ * Biome
+   * [Biome](https://starbounder.org/Biome)  
