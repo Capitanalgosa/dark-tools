@@ -2,6 +2,9 @@
 
 ## Reverce shell attack
 
+_**source**
+> [networkchuck](https://learn.networkchuck.com/courses/take/ad-free-youtube-videos/lessons/25882550-how-to-get-remote-access-to-your-hacking-targets-reverse-shells-with-netcat)
+
 ### Attack Linux
 
 #### ATTACKING machine
