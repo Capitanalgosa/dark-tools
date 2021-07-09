@@ -68,6 +68,8 @@
 * [msfvenom](https://github.com/rapid7/metasploit-framework) :white_circle:
 * [SpookFlare](https://github.com/hlldz/SpookFlare) :white_circle:  
     Para windwos, crea payload para acceso remoto y supuestamente es indetctabble para windows defender.
+* netcat :white_circle: [:notebook:](./content/netcat-xamples.md)
+
 
 :moyai: _**devices**
 
