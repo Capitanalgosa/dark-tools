@@ -13,6 +13,8 @@
   * :earth_americas: Web site
   * :moyai: Devices
   * :floppy_disk: Command Line
+  * :notebook: Xamples
+  * :books: Docs
 * Sistemas Operativos (S.O)
   * :apple: Apple
   * :penguin: Linux
