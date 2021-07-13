@@ -2,6 +2,6 @@
 
 # dark tools
 
-* [hack-tools](https://github.com/Capitanalgosa/dark-tools/blob/main/content/hack-tools.md)
-* [game-tools](./content/game-tools.md)
-
+* [Hack Tools](https://github.com/Capitanalgosa/dark-tools/blob/main/content/hack-tools.md)
+* [Game Tools](./content/game-tools.md)
+* [Lenguaje Corporal](./content/lenguaje-corporal.md)
