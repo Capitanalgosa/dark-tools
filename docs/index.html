@@ -5,43 +5,300 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Dark Tools</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.0/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-KyZXEAg3QhqLMpG8r+8fhAXLRk2vvoC2f3B09zVXn8CA5QIVfZOJ3BCsw2P0p/We" crossorigin="anonymous">
 </head>
 <body>
     <h1>Dark Tools</h1>
     <h2>Leyenda</h2>
     <h2>Estado</h2>
     <span title="No se ah usado">&#10068;</span><span> No se ah usado</span>
-    <span>&#10004;</span><span> Probado y testeado</span>
-    <span>&#128051;</span><span> Con imagen de docker</span>
-    <span>&#128128;</span><span> Dead</span>
-    <span>&#128030;</span><span> Error: no se usar la herramienta o no se instalarla o tiene mucho errores</span>
-    <span>&#11088;</span><span> Favorito</span>
+    <span title="Probado y testeado">&#10004;</span><span> Probado y testeado</span>
+    <span title="Con imagen propia de docker">&#128051;</span><span> Con imagen propia de docker</span>
+    <span title="Dead">&#128128;</span><span> Dead</span>
+    <span title="Error: no se usar la herramienta o no se instalarla o tiene mucho errores">&#128030;</span><span> Error: no se usar la herramienta o no se instalarla o tiene mucho errores</span>
+    <span title="Favorito">&#11088;</span><span> Favorito</span>
     <h2>Typo</h2>
-    <span>&#127758;</span><span> Web Site</span>
-    <span>&#128187;</span><span> Device</span>
-    <span>&#128190;</span><span> Command Line</span>
-    <span>&#128221;</span><span> Xamples</span>
-    <span>&#128218;</span><span> Docs</span>
+    <span title="Web Site">&#127758;</span><span> Web Site</span>
+    <span title="Device">&#128187;</span><span> Device</span>
+    <span title="Command Line">&#128190;</span><span> Command Line</span>
     <h2>Sistemas Operativos (S.O)</h2>
-    <span>&#127822;</span><span> Apple</span>
-    <span>&#128039;</span><span> Linux</span>
-    <span>&#128307;</span><span> Windows</span>
-    <span>&#128125;</span><span> Android</span>
+    <span title="Apple">&#127822;</span><span> Apple</span>
+    <span title="Linux">&#128039;</span><span> Linux</span>
+    <span title="Windows">&#128307;</span><span> Windows</span>
+    <span title="Android">&#128125;</span><span> Android</span>
     <h2>Categorias</h2>
-    <span>&#128001;</span><span>Remote Access Tools</span>
-    <span>&#128223;</span><span>Net Scaner</span>
-    <span>&#128296;</span><span>Penetration</span>
-    <span>&#128270;</span><span>Password finder</span>
-    <span>&#127907;</span><span>Fishing</span>
-    <span>&#128067;</span><span>Sniff</span>
-    <span>&#128014;</span><span>Trojan</span>
-    <span></span><span>Pass the hash attack</span>
-    <span></span><span>brute froce & post explotation</span>
-    <span></span><span>Meta Exploit</span>
-    <span></span><span>Craking</span>
-    <span></span><span>ONSIT</span>
-    <span></span><span>VPN</span>
-    <h2>Syntaxis</h2>
-    <code>/Categorias/ | /Estado/ | /S.O atacante/ | /S.O victima/ |</code>
+    <span title="Remote Access Tools">&#128001;</span><span>Remote Access Tools</span>
+    <span title="Net Scaner">&#128223;</span><span>Net Scaner</span>
+    <span title="Penetration">&#128296;</span><span>Penetration</span>
+    <span title="Password finder">&#128270;</span><span>Password finder</span>
+    <span title="Fishing">&#127907;</span><span>Fishing</span>
+    <span title="Sniff">&#128067;</span><span>Sniff</span>
+    <span title="Trojan">&#128014;</span><span>Trojan</span>
+    <span title="Pass the hash attack"></span><span>Pass the hash attack</span>
+    <span title="brute froce & post explotation"></span><span>brute froce & post explotation</span>
+    <span title="Meta Exploit"></span><span>Meta Exploit</span>
+    <span title="Craking"></span><span>Craking</span>
+    <span title="ONSIT">&#128373;</span><span>ONSIT</span>
+    <span title="VPN"></span><span>VPN</span>
+    <h2>Referencias</h2>
+    <span title="Github Repo">&#128049;</span><span>Github Repo</span>
+    <span title="Official Web">&#127759;</span><span>Official Web</span>
+    <span title="Official Docker Image">&#128011;</span><span>Official Docker Image</span>
+    <span title="Xamples">&#128221;</span><span> Xamples</span>
+    <span title="Official Docs">&#128218;</span><span>Official Docs</span>
+    <h2>all</h2>
+    <p></p>
+    <div class="container">
+        <div class="row">
+            <div class="col">
+                <span>Nombre</span>
+            </div>
+            <div class="col-3">
+                <span>Descripcion</span>
+            </div>
+            <div class="col">
+                <span>Categorias</span>
+            </div>
+            <div class="col"><span>S.O Victima</span></div>
+            <div class="col"><span>S.O Atacante</span></div>
+            <div class="col"><span>Typo</span></div>
+            <div class="col"><span>Estado</span></div>
+            <div class="col"><span>Referencias</span></div>
+        </div>
+<!-- formula 
+(.row>.col[title="Nombre"]>p^.col-3[title="Descripcion"]>p^.col[title="Categorias"]+.col[title="S.O Victima"]+.col[title="S.O Atacante"]+.col[title="Typo"]+.col[title="Estado"]+.col[title="Referencia"]>a>span{&#128049;})*
+-->
+        <div class="row">
+            <div class="col" title="Nombre">
+                <p>Pupy</p>
+            </div>
+            <div class="col-3" title="Descripcion">
+                <p>Pupy is a cross-platform, multi function RAT and post-exploitation tool mainly written in python. It features an all-in-memory execution guideline and leaves a very low footprint. Pupy can communicate using multiple transports, migrate into processes using reflective injection, and load remote python code, python packages and python C-extensions from memory.</p>
+            </div>
+            <div class="col" title="Categorias">
+                <span title="Remote Access Tools">&#128001;</span>
+            </div>
+            <div class="col" title="S.O Victima"></div>
+            <div class="col" title="S.O Atacante"></div>
+            <div class="col" title="Typo">
+                <span title="Command Line">&#128190;</span>
+            </div>
+            <div class="col" title="Estado">
+                <span title="Error: no se usar la herramienta o no se instalarla o tiene mucho errores">&#128030;</span>
+            </div>
+            <div class="col" title="Referencia">
+                <a href="https://github.com/n1nj4sec/pupy"><span title="Github Repo">&#128049;</span></a>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col" title="Nombre">
+                <p>AhMyth</p>
+            </div>
+            <div class="col-3" title="Descripcion">
+                <p></p>
+            </div>
+            <div class="col" title="Categorias">
+                <span title="Remote Access Tools">&#128001;</span>
+            </div>
+            <div class="col" title="S.O Victima"></div>
+            <div class="col" title="S.O Atacante"></div>
+            <div class="col" title="Typo">
+                <span title="Command Line">&#128190;</span>
+            </div>
+            <div class="col" title="Estado">
+                <span title="No se ah usado">&#10068;</span>
+            </div>
+            <div class="col" title="Referencia">
+                <a href="https://github.com/AhMyth/AhMyth-Android-RAT"><span title="Github Repo">&#128049;</span></a>
+            </div>
+        </div>
+<div class="row">
+    <div class="col" title="Nombre">
+        <p>Empire</p>
+    </div>
+    <div class="col-3" title="Descripcion">
+        <p>Empire is a post-exploitation framework that includes a pure-PowerShell2.0 Windows agent, and a pure Python 2.6/2.7 Linux/OS X agent. It is the merge of the previous PowerShell Empire and Python EmPyre projects. The framework offers cryptologically-secure communications and a flexible architecture. On the PowerShell side, Empire implements the ability to run PowerShell agents without needing powershell.exe, rapidly deployable post-exploitation modules ranging from key loggers to Mimikatz, and adaptable communications to evade network detection, all wrapped up in a usability-focused framework. PowerShell Empire premiered at BSidesLV in 2015 and Python EmPyre premeiered at HackMiami 2016.</p>
+    </div>
+    <div class="col" title="Categorias">
+        <span title="Remote Access Tools">&#128001;</span>
+    </div>
+    <div class="col" title="S.O Victima"></div>
+    <div class="col" title="S.O Atacante"></div>
+    <div class="col" title="Typo">
+        <span title="Command Line">&#128190;</span>
+    </div>
+    <div class="col" title="Estado">
+        <span title="Dead">&#128128;</span>
+    </div>
+    <div class="col" title="Referencia">
+        <a href="https://github.com/EmpireProject/Empire"><span title="Github Repo">&#128049;</span></a>
+    </div>
+</div>
+<div class="row">
+    <div class="col" title="Nombre">
+        <p>SMBMap</p>
+    </div>
+    <div class="col-3" title="Descripcion">
+        <p>SMBMap allows users to enumerate samba share drives across an entire domain. List share drives, drive permissions, share contents, upload/download functionality, file name auto-download pattern matching, and even execute remote commands. This tool was designed with pen testing in mind, and is intended to simplify searching for potentially sensitive data across large networks.</p>
+    </div>
+    <div class="col" title="Categorias">
+        <span title="Remote Access Tools">&#128001;</span>
+    </div>
+    <div class="col" title="S.O Victima"></div>
+    <div class="col" title="S.O Atacante"></div>
+    <div class="col" title="Typo">
+        <span title="Command Line">&#128190;</span>
+    </div>
+    <div class="col" title="Estado">
+        <span title="Probado y testeado">&#10004;</span>
+    </div>
+    <div class="col" title="Referencia">
+        <a href="https://github.com/ShawnDEvans/smbmap"><span title="Github Repo">&#128049;</span></a>
+    </div>
+</div>
+<div class="row">
+    <div class="col" title="Nombre">
+        <p></p>
+    </div>
+    <div class="col-3" title="Descripcion">
+        <p></p>
+    </div>
+    <div class="col" title="Categorias"></div>
+    <div class="col" title="S.O Victima"></div>
+    <div class="col" title="S.O Atacante"></div>
+    <div class="col" title="Typo"></div>
+    <div class="col" title="Estado"></div>
+    <div class="col" title="Referencia"><a href=""><span>&#128049;</span></a></div>
+</div>
+<div class="row">
+    <div class="col" title="Nombre">
+        <p></p>
+    </div>
+    <div class="col-3" title="Descripcion">
+        <p></p>
+    </div>
+    <div class="col" title="Categorias"></div>
+    <div class="col" title="S.O Victima"></div>
+    <div class="col" title="S.O Atacante"></div>
+    <div class="col" title="Typo"></div>
+    <div class="col" title="Estado"></div>
+    <div class="col" title="Referencia"><a href=""><span>&#128049;</span></a></div>
+</div>
+<div class="row">
+    <div class="col" title="Nombre">
+        <p></p>
+    </div>
+    <div class="col-3" title="Descripcion">
+        <p></p>
+    </div>
+    <div class="col" title="Categorias"></div>
+    <div class="col" title="S.O Victima"></div>
+    <div class="col" title="S.O Atacante"></div>
+    <div class="col" title="Typo"></div>
+    <div class="col" title="Estado"></div>
+    <div class="col" title="Referencia"><a href=""><span>&#128049;</span></a></div>
+</div>
+<div class="row">
+    <div class="col" title="Nombre">
+        <p></p>
+    </div>
+    <div class="col-3" title="Descripcion">
+        <p></p>
+    </div>
+    <div class="col" title="Categorias"></div>
+    <div class="col" title="S.O Victima"></div>
+    <div class="col" title="S.O Atacante"></div>
+    <div class="col" title="Typo"></div>
+    <div class="col" title="Estado"></div>
+    <div class="col" title="Referencia"><a href=""><span>&#128049;</span></a></div>
+</div>
+<div class="row">
+    <div class="col" title="Nombre">
+        <p></p>
+    </div>
+    <div class="col-3" title="Descripcion">
+        <p></p>
+    </div>
+    <div class="col" title="Categorias"></div>
+    <div class="col" title="S.O Victima"></div>
+    <div class="col" title="S.O Atacante"></div>
+    <div class="col" title="Typo"></div>
+    <div class="col" title="Estado"></div>
+    <div class="col" title="Referencia"><a href=""><span>&#128049;</span></a></div>
+</div>
+<div class="row">
+    <div class="col" title="Nombre">
+        <p></p>
+    </div>
+    <div class="col-3" title="Descripcion">
+        <p></p>
+    </div>
+    <div class="col" title="Categorias"></div>
+    <div class="col" title="S.O Victima"></div>
+    <div class="col" title="S.O Atacante"></div>
+    <div class="col" title="Typo"></div>
+    <div class="col" title="Estado"></div>
+    <div class="col" title="Referencia"><a href=""><span>&#128049;</span></a></div>
+</div>
+<div class="row">
+    <div class="col" title="Nombre">
+        <p></p>
+    </div>
+    <div class="col-3" title="Descripcion">
+        <p></p>
+    </div>
+    <div class="col" title="Categorias"></div>
+    <div class="col" title="S.O Victima"></div>
+    <div class="col" title="S.O Atacante"></div>
+    <div class="col" title="Typo"></div>
+    <div class="col" title="Estado"></div>
+    <div class="col" title="Referencia"><a href=""><span>&#128049;</span></a></div>
+</div>
+<div class="row">
+    <div class="col" title="Nombre">
+        <p></p>
+    </div>
+    <div class="col-3" title="Descripcion">
+        <p></p>
+    </div>
+    <div class="col" title="Categorias"></div>
+    <div class="col" title="S.O Victima"></div>
+    <div class="col" title="S.O Atacante"></div>
+    <div class="col" title="Typo"></div>
+    <div class="col" title="Estado"></div>
+    <div class="col" title="Referencia"><a href=""><span>&#128049;</span></a></div>
+</div>
+<div class="row">
+    <div class="col" title="Nombre">
+        <p></p>
+    </div>
+    <div class="col-3" title="Descripcion">
+        <p></p>
+    </div>
+    <div class="col" title="Categorias"></div>
+    <div class="col" title="S.O Victima"></div>
+    <div class="col" title="S.O Atacante"></div>
+    <div class="col" title="Typo"></div>
+    <div class="col" title="Estado"></div>
+    <div class="col" title="Referencia"><a href=""><span>&#128049;</span></a></div>
+</div>
+<div class="row">
+    <div class="col" title="Nombre">
+        <p></p>
+    </div>
+    <div class="col-3" title="Descripcion">
+        <p></p>
+    </div>
+    <div class="col" title="Categorias"></div>
+    <div class="col" title="S.O Victima"></div>
+    <div class="col" title="S.O Atacante"></div>
+    <div class="col" title="Typo"></div>
+    <div class="col" title="Estado"></div>
+    <div class="col" title="Referencia"><a href=""><span>&#128049;</span></a></div>
+</div>
+        <!--END-->
+    </div>
+    
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.0/dist/js/bootstrap.bundle.min.js" integrity="sha384-U1DAWAznBHeqEIlVSCgzq+c9gqGAJn5c/t99JyeKa9xxaYpSvHU5awsuZVVFIhvj" crossorigin="anonymous"></script>
 </body>
 </html>
