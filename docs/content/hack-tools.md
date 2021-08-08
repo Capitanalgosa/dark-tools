@@ -43,46 +43,6 @@
 * [ONSIT](#onsit)
 * [VPN](#vpn)
 
-## Remote Access Tools
-
-[:arrow_backward:](#nav) [back](#nav)  
-
-:floppy_disk: _**command line**
-
-
-* [Pupy](https://github.com/n1nj4sec/pupy) :small_orange_diamond:
-* [AhMyth](https://github.com/AhMyth/AhMyth-Android-RAT) :white_circle:
-* [Empire](https://github.com/EmpireProject/Empire) :x:
-* [SMBMap](https://github.com/ShawnDEvans/smbmap) :heavy_check_mark:   
-    Funciona, puede cargar archivos a las rutas que la pc tenga desbloqueadas, funciona con algunas rutas, no ejecuta comandos y no se por que pero no me funciono en la Virtual machine.
-* [RedSnarf](https://github.com/nccgroup/redsnarf) :small_orange_diamond:  
-    Este necesita saver la contraseña de la victima.
-* [smbexec](https://github.com/brav0hax/smbexec) :small_orange_diamond:
-* [Koadic](https://github.com/zerosum0x0/koadic) :heavy_check_mark::whale:  
-    Si funciona, puedes crear hasta sesiones de administrador. la vaina es que tienes que ejecutar un comando desde la terminal de la victima y siempre ejecuta una ventana en windows, cada vez  que ejcutas un comando desde la terminal remota. y en algunos casos activa el antivurus.
-* [LFiFreak](https://github.com/OsandaMalith/LFiFreak) :small_orange_diamond:
-* [Kwetza](https://github.com/sensepost/kwetza) :small_orange_diamond:  
-    Para infestar una apk ya existente, y aprovecharse de los permisos.  
-* [UACMe](https://github.com/hfiref0x/UACME) :small_orange_diamond:  
-    Inicia una consola con privilegeos de administrador, creo que nada funciona con windows.
-* [msfvenom](https://github.com/rapid7/metasploit-framework) :white_circle:
-* [SpookFlare](https://github.com/hlldz/SpookFlare) :white_circle:  
-    Para windwos, crea payload para acceso remoto y supuestamente es indetctabble para windows defender.
-* netcat :white_circle: [:notebook:](./content/netcat-xamples.md)
-
-
-:moyai: _**devices**
-
-* WiFi Duck
-
-## Net Scaner
-
-[:arrow_backward:](#nav) [back](#nav)  
-
-:floppy_disk: _**command line**
-
-* nmap :heavy_check_mark:
-
 ## uncategorized
 
 [:arrow_backward:](#nav) [back](#nav)  
